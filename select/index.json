@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "I need",
+  "base_artist": "田中有紀",
+  "createdAt": "2026-03-09T10:49:27.025134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All I Need to Know",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/01_All_I_Need_to_Know_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/02_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Right Where I Need to Be",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/03_Right_Where_I_Need_to_Be_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That's All I Need to Know",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/04_That's_All_I_Need_to_Know_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What I Need to Do",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_What_I_Need_to_Do_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Look Like I Need a Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/06_You_Look_Like_I_Need_a_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Look Like I Need A Drink",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/07_You_Look_Like_I_Need_A_Drink_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Need a Beat",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/08_I_Need_a_Beat_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Need Love",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/09_I_Need_Love_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/10_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All I Need",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_All_I_Need_Radiohead.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I need",
+      "artist": "田中有紀",
+      "has_synced": false,
+      "path": "select/pl_01_I_need_田中有紀.txt"
+    }
+  ]
+}
